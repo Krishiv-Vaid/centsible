@@ -20,11 +20,18 @@ A free savings planner for teens in Ontario. Pick your job, see what you'll actu
 
 ---
 
-<p align="center">
-  <img src="docs/login.png" width="32%" alt="Centsible login screen" />
-  <img src="docs/paycheque.png" width="32%" alt="Job picker and monthly paycheque breakdown" />
-  <img src="docs/goals.png" width="32%" alt="Savings goals and progress ring" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center"><img src="docs/1-login.png" width="100%" alt="Login screen" /><br /><sub><b>Log in or sign up</b></sub></td>
+    <td width="33%" align="center"><img src="docs/2-dashboard.png" width="100%" alt="Login streak, points and job picker" /><br /><sub><b>Streaks, points and your job</b></sub></td>
+    <td width="33%" align="center"><img src="docs/3-paycheque.png" width="100%" alt="Monthly paycheque breakdown" /><br /><sub><b>What you actually take home</b></sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center"><img src="docs/4-goals.png" width="100%" alt="Savings goals and progress ring" /><br /><sub><b>Goals that tell you when</b></sub></td>
+    <td width="33%" align="center"><img src="docs/5-chart-tips.png" width="100%" alt="Savings projection chart and tips" /><br /><sub><b>Projection and personal tips</b></sub></td>
+    <td width="33%" align="center"><img src="docs/6-badges.png" width="100%" alt="Badges and recent deposits" /><br /><sub><b>Badges and deposit log</b></sub></td>
+  </tr>
+</table>
 
 ## Why
 
@@ -64,8 +71,6 @@ Centsible answers those in plain language, using real Ontario numbers.
 - Seven coin levels: Penny → Nickel → Dime → Quarter → Loonie → Toonie → Gold Maple.
 - Six badges, from *First Deposit* to *Four Figures*.
 - A deposit log so you can track every dollar you set aside.
-
-<p align="center"><img src="docs/chart.png" width="60%" alt="Savings projection chart" /></p>
 
 ## Privacy
 
