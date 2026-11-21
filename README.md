@@ -10,7 +10,6 @@ A free savings planner for teens in Ontario. Pick your job, see what you'll actu
 
 **[centsible-ca.netlify.app](https://centsible-ca.netlify.app/)**
 
-[![CI](https://github.com/Krishiv-Vaid/centsible/actions/workflows/ci.yml/badge.svg)](https://github.com/Krishiv-Vaid/centsible/actions/workflows/ci.yml)
 ![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)
 [![Netlify](https://img.shields.io/badge/live-Netlify-00c7b7?logo=netlify&logoColor=white)](https://centsible-ca.netlify.app/)
